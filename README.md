@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author - Suraj Kumar
+Author - Suraj Kumar (apna college)
